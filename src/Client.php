@@ -8,6 +8,5 @@ namespace Nonys\Coinbase;
  */
 class Client
 {
-
     // Test
 }
