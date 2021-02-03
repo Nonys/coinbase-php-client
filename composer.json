@@ -1,0 +1,21 @@
+{
+    "name": "nonys/coinbase-php-client",
+    "description": "",
+    "keywords": ["coinbase"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ondrej Novak",
+            "email": "nonysak62@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nonys\\Coinbase\\": "src/"
+        }
+    }
+}
