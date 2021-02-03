@@ -9,10 +9,11 @@
             "email": "nonysak62@gmail.com"
         }
     ],
-    "type": "project",
+    "type": "library",
     "require": {
 		"php": ">=7.1"
     },
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Nonys\\Coinbase\\": "src/"

@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types = 1);
+
 namespace Nonys\Coinbase;
 
 /**
@@ -8,5 +10,8 @@ namespace Nonys\Coinbase;
  */
 class Client
 {
-    // Test
+    public function __construct()
+    {
+
+    }
 }
